@@ -26,7 +26,6 @@ PRISMA AI is a **multi-agent AI research assistant** that automates the complete
 
 
 
-Configure your API keys inside a `.env` file before running the project.
 
 ## 🎬 Demo
 
