@@ -24,15 +24,7 @@ PRISMA AI is a **multi-agent AI research assistant** that automates the complete
 * AsyncIO
  🚀 Quick Start
 
-```bash
-git clone https://github.com/yourusername/prisma-ai.git
 
-cd prisma-ai
-
-pip install -r requirements.txt
-
-python app.py
-```
 
 Configure your API keys inside a `.env` file before running the project.
 
