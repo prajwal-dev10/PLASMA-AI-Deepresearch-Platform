@@ -30,7 +30,7 @@ PRISMA AI is a **multi-agent AI research assistant** that automates the complete
 ## 🎬 Demo
 
 LinkedIn Demo:
-
+https://www.linkedin.com/posts/prajwal-k-c-714868213_prismaai-artificialintelligence-agenticai-ugcPost-7485164364178812928-aWpc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADYN8AABNN-Swjphs8b1xtZuZahWlQ2RI3U
 
 
 👨‍💻 Author
